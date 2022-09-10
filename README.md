@@ -1,2 +1,2 @@
 # SistemaCadastroContatos
-Sistema  ASP.NET, usando .NET 5
+Sistema ASP.NET MVC, usando .NET 5

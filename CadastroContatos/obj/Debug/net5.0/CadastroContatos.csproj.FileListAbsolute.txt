@@ -354,3 +354,7 @@ C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\n
 C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\CadastroContatos.pdb
 C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\CadastroContatos.genruntimeconfig.cache
 C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\ref\CadastroContatos.dll
+C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs
+C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+C:\Users\othon\source\repos\sistemaCadastroContatos\CadastroContatos\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
